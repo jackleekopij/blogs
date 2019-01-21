@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 *We're constantly told to 'not to fret the small things' but could this be doing us harm through a natural phenomena known as chaos?*
+
 The Tipping Point, written by Malcom Gladwell is a fantastic exploration as to why under certain circumstances the smallest of differences can have disproportionately large effects. 
 
 
