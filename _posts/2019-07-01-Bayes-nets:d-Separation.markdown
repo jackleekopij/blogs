@@ -8,7 +8,7 @@ categories: jekyll update
 Aim:
 Provide an introduction to the idea of d-separation, its importance/applications to Bayes Nets and distributional proofs for d-sepatation.
 
-$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 Introduction:
 Bayesian networks, in a sense a misnomer provides a flexible framework to express causality of variables using a directed acyclic graph (DAG) format. Defining a graph in using a DAG structure naturally imposes ideas of causality by formation of conditional distributions. At the core of Bayes net representation these set of conditional independence assumptions which identify the **flow** of causality through a network.
