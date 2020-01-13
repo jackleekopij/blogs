@@ -11,7 +11,7 @@ Advancements into the field of Causal Inference has provided scope for statistic
 
 
 ![test5](../../../../../assets/Causal_ladder.png)
-*The Causal Ladder*
+* \textbf{Figure 1.} The Causal Ladder *
 
 Seeing, doing and imaging these are three rungs of Causal Ladder as created by the god father of Causal Inference, Judea Pearl and articulated in his book, The Book of Why. Ascending the ladder from as Pearl describes as the base, Seeing is the art of strictly observing a phenomena more put as observational data and correlations. Machine learning algorithms for the majority are classified into this category; the is no consideration as to "how" or the cause of the data generation. Stepping to level, doing is the practice of intervention the first step towards causality. Interventions implement a practice of do-calculus, a special method of setting variables differing from conditioning a conditional distribution. Summarising the difference, conditional distributions (rung 1) are set the parameter value after the fact or data has been collected where as intervention is strict about how the data is collected. Ascending to the highest level is imaging, the counter-factuals, "what would have happened if I had of done A instead of B". Pearl argues this is what separates humans from other animals our ability to imagine what could have been and rapidly learn from past experience. Again counter-factuals will be explored in depth in their own post.
 
