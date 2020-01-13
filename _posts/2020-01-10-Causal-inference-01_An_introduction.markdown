@@ -14,7 +14,7 @@ Seeing, doing and imaging these are three rungs of Causal Ladder as created by t
 The Causal Ladder provide as framework to classify a data set's capacity and usefulness; if Causal Inference is available what are the benefits? Breadth and depth of questions adressable by employing Causal Inference is the answer. Briefly touched on through the Casual Ladder when Causal Inference is unavailable analysis is constrained to be purely observational in nature, or "what happened". It is quite plausible to believe a random sample of people who do yoga or run on a weekly basis will be healthier than those who don't.
 Observing metrics on these groups would provide evidence to support this hypothesised correlation. Through a Causal Inference lense it can be identified that this is not complete story, we are missing the Why or "why does doing yoga or running on a weekly basis" make a healthier person? It's time to meet the first structure of Causal Inference, the Confounder. A Confounder is a variable which has an affects variables you are measuring. A Confounder in the previous example would be a more health conscious person is more likely to run and a also be healthier. So from the previous correlation found between "yoga or running" and current health, directly attributing the health improvement effect from running will over state the running effect as the "health conscious" Confounder of a person has not been accounted for. As a primer, this should illustrate the need for Causal Inference with more complex "causal structures" being explored in subsequent posts.
 
-![test1](../_site/assets/Latex_tikz_4.png)
+![test2](/_site/assets/Latex_tikz_4.png)
 
 
 Stay tuned for the next post Causal Inference 02: Missing Data.
