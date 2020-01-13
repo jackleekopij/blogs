@@ -11,7 +11,7 @@ Advancements into the field of Causal Inference has provided scope for statistic
 
 
 ![test5](../../../../../assets/Causal_ladder.png)
-* \textbf{Figure 1.} The Causal Ladder *
+*Figure 1. The Causal Ladder*
 
 Seeing, doing and imaging these are three rungs of Causal Ladder as created by the god father of Causal Inference, Judea Pearl and articulated in his book, The Book of Why. Ascending the ladder from as Pearl describes as the base, Seeing is the art of strictly observing a phenomena more put as observational data and correlations. Machine learning algorithms for the majority are classified into this category; the is no consideration as to "how" or the cause of the data generation. Stepping to level, doing is the practice of intervention the first step towards causality. Interventions implement a practice of do-calculus, a special method of setting variables differing from conditioning a conditional distribution. Summarising the difference, conditional distributions (rung 1) are set the parameter value after the fact or data has been collected where as intervention is strict about how the data is collected. Ascending to the highest level is imaging, the counter-factuals, "what would have happened if I had of done A instead of B". Pearl argues this is what separates humans from other animals our ability to imagine what could have been and rapidly learn from past experience. Again counter-factuals will be explored in depth in their own post.
 
@@ -20,7 +20,7 @@ The Causal Ladder provide as framework to classify a data set's capacity and use
 Observing metrics on these groups would provide evidence to support this hypothesised correlation. Through a Causal Inference lense it can be identified that this is not complete story, we are missing the *Why* or "why does doing yoga or running on a weekly basis" reduce blood pressure, is it reduced muscle tension which increases blood flow thus decreasing pressure, is it people who have lower blood pressure feel better and thus spend more time doing healthy activities like "yoga or running"? Both of these interpretations are valid from a pure correlation view though fall short of addressing the *Why*.
 
 ![test5](../../../../../assets/Causal_model_health.png)
-*An example of a Confounder, Health conscious, affecting both blood pressure and "yoga or running" variables. Such confounding can introduce spurious correlation*
+*Figure 2. An example of a Confounder, Health conscious, affecting both blood pressure and "yoga or running" variables. Such confounding can introduce spurious correlation*
 
 To truly explore Causal Inference we must introduce the first structure of Causal Inference, the Confounder. A Confounder is a variable which has an affects variables you are measuring. A Confounder in the previous example would be a more health conscious person is more likely to run and a also be healthier. So from the previous correlation found between "yoga or running" and blood pressure, directly attributing any blood pressure improvement effect from running will over state the running effect as the "health conscious" Confounder of a person has not been accounted for. As a primer, this should illustrate the need for Causal Inference with more complex "causal structures" being explored in subsequent posts detailing consequences of getting these structures incorrect.
 
