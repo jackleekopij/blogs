@@ -1,0 +1,5 @@
+g1 <- dagitty( "dag {
+  Health_conscious -> Yoga_or_running -> Blood_pressure
+  Health_conscious -> Blood_pressure}")
+
+plot(graphLayout(g1))
