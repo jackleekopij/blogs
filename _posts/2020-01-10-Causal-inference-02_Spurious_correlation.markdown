@@ -1,9 +1,25 @@
 ---
 layout: post
-title:  "Causal Inference 01: An introduction"
+title:  "Causal Inference 02: Spurious Correlations"
 date:   2020-01-10 15:18:30 +0800
 categories: jekyll update
 ---
+
+In part 1 *An Introduction*, many examples of spurious or implausible relations were discussed. Per capita cheese consumption vs Number of people who died by becoming tangled in their bed sheets and Divorce rate in Maine vs Per capita consumption of margarine each with a calculated correlation coefficient > 0.95. These were followed by an example analysing 'blood pressure' and 'yoga or running' where by a correlation was 'explained' through the inclusion of a third variable referred to as a *Confounder*, 'health conscious'. Although these examples all suffer from spurious correlations resulting in erroneous analyses there is a difference between the first two relations and the third; the first being a result of what one could determine as coincidence the third being a true causal effect simply with the incorrect causal structure. In this blog, a defining line between the coincidental and the incorrect causal structure is discussed along with helpful causal structures and a distributional proof as to how spurious correlations are "created" by incorrect use of data in analyses.
+
+Spurious correlations of the coincidental type can be found through most fields and provide a caution for scientists aiming to crank the statistical handle and present a result. The question may arise as to why these 
+
+Machine learning and its famed subset, deep learning, has made significant advancements in fields of speech recognition, computer vision and language processing. Although results have been impressive only minimal progress has been made in understanding the 'how' these algorithms are achieving state of the art results. A favourite issue caused by an incorrect causal structure comes from the world of computer vision; discussion (here)[https://arxiv.org/pdf/1602.04938.pdf] highlights the importance of understanding models. In summary, an algorithm was trained to differentiate between dogs and wolves using standard observational data yielding a 96% accuracy. A closer inspection resulted in a strange finding; if you placed a dog on snowy background it would be classified as a wolf and wolf on grassed background it would be classified as a dog. The algorithm had learnt to classify images using the pixels of the background NOT the pixels of the animal! An interesting finding but how can this be expressed as from a causal view; causal structures are now presented to highlight importance of understanding the power of our models and not just finding correlations.
+
+
+### Every accomplishment in this field to this point has been as a result of observational data
+
+### Causal structures; mediators, confounders and colliders
+
+### Colliders and spurious correlations: be careful on what you condition on
+
+
+### Conclusion associational data, deep learning rules and combined with Causal structures will get us to level 2 of the Casual Ladder. Need for experimental design/dose dependent
 
 "Correlation does not imply causation", one of statistics most famed lines, used extensively throughout heated discussions which use data as evidence. This phrase has been popularised since the early 1900's by prominent statistician Karl Pearson in his battle against spurious correlation; Per capita cheese consumption vs Number of people who died by becoming tangled in their bed sheets and Divorce rate in Maine vs Per capita consumption of margarine both of which attain a correlation coefficient > 0.95. Pearson was trying to directly attack such scenarios, to be conscious of the fact although correlation exists between two variables such relation may be caused by random phenomena. As time has progressed continuous efforts have been made to tackle the implications of this phrase delivered through the field of Causal Inference.
 
