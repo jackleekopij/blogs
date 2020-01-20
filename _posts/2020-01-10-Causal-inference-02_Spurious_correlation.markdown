@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Causal Inference 02: Spurious Correlations"
-date:   2020-01-10 15:18:30 +0800
+date:   2020-01-17 15:18:30 +0800
 categories: jekyll update
 ---
 
