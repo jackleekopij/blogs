@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Probability, risk management, chaos and decision theory.
 email: jack.a.leekopij@gmail.com
-description: >- #Comment 
+description: >- #Comment
 
   The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
   Nassim N. Taleb
@@ -27,6 +27,7 @@ baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "https://jackleekopij.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  naivebaye
+
 
 # Build settings
 markdown: kramdown
