@@ -7,7 +7,7 @@ categories: jekyll update
 
 # A review: 
 
-## Chapter 1: Stand up straight with your shoulders back
+## Chapter 1: Stand Up Straight With Your Shoulders Back
 Lobsters, Jordan Peterson's synonymous animal. Immediatetly within this chapter Jordan makes references to crustacean providing a brief yet scientific summary of the hieararchy which lobsters live. 
 Focus is placed upon the serotonin structure within the crustaceans and differeing amounts of this neurotransmitter present within these animals significant impacts on their relative status within a lobster ecosystem. 
 In summary, lobsters with higher serotonin will act will have assume a higher position in said hieararchy while less dominant lobsters will maintain lower levels of serotonin. 
@@ -25,3 +25,11 @@ The Pareto distribution is the name given to these phenomeneas.
 
 ### Where to from here? 
 Jordan is just starting to lay the foundations of his exploration into why just hierarchies in our modern societies are not only natural, a biproduct of millions of years of evolution, but why they are necessary for societies to function optimally. 
+
+## Chapter 2: Treat Yourself Like Someone You Are Responsible For Helping
+Centred around self-loathing; Jordan turns the addage, 'treat others the way you would like to be treated yourself' on its head arguing 'you should treat yourself as the way you would treat somebody you loved'. He initiates this discussions with statistics on rates of prescription medication actually being correctly when we're responsible for ourselves being dramatically low, however, when we are responsible for another being or pet taking prescription medication rates successful administration is almost gauranteed. Discussions are provided to support a notion that children and pets have an auroa of innocence that us as first person controllers of our own lives could not possible expect to deserve. Jordan argues the opposite and suggest that we, ourselves, are exactly the people who deserve to be helped first.
+
+When you and I take good care of ourselves, we make sure we are the strong one in the relationship. Without taking care of ourselves (both physically and mentally) the tyrant-slave relationship forms. However, when we do take care of ourselves we stand as a good role model for our own dignity and our own wellbeing. And this energy carries on towards other people. The world is better this way. Because chaos and suffering is the status quo.
+
+### In our every day lives
+- Integrity; we must as individuals take care of ourselves while keeping ourselves to account; a healthy trade-off/balance between sacrificing the present for the future. Try to tell the truth to others but NEVER lie to yourself!
