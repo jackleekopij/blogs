@@ -33,3 +33,13 @@ When you and I take good care of ourselves, we make sure we are the strong one i
 
 ### In our every day lives
 - Integrity; we must as individuals take care of ourselves while keeping ourselves to account; a healthy trade-off/balance between sacrificing the present for the future. Try to tell the truth to others but NEVER lie to yourself!
+
+## Chapter 3: Make Friends With People Who Want The Best For You
+It is true we are the sum product of the 5 people we spend the most time with in our lives. As such it becomes a moral obligation to not only carefully select these 5 people but determine why these particular people are included in our lives. 
+
+Throughout the chapter Jordan explores this why and questions the reader to understand their true rationales for the friendships they hold. The chapter begin with a story of a boy, Chris, who Jordan grow up with in his younger years. Detailed are the opportunities life presented both Chris and Jordan himself. With similar opportunities presented both Chris and Jordan ended up taking vastly different trajectories with Jordan attributing a significant determinant being the crowds each decided to assosciate with. He rationalised Chris' decision to stay in his friendship circle an action of comfort; Chris was not aiming high enough, he was not aiming at all. He used the group around him to satisfy his own ego knowing that he could achieve a feeling of satisfaction if others around him were doing worse than him. 
+
+Further, Peterson asks the reader to reflect on their current friendships with objectivity. He presents a compelling argument to the reader that if a friendship is detrimental to an individuals growth in desired areas then one has no moral obligation to maintain/continue friendship "Friendship is a reciprocal arrangement. You are not morally obliged to support someone who is making the world a worse place.” In undertaking such cost-benefit analysis Peterson suggests that the reader shouldn't "merely assume that said friend in question is a noble victim of unjust circumstances and exploitation", arguing that friendships maintained long past expiration date are done so out of compassion for victim.
+
+### In our every day lives
+Always aim to gainer friendships with people of quality; people who not only have strengths and knowledge in areas you would like to grow but friends who will also celebrate success once you achieve your goal. 
