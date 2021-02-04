@@ -26,6 +26,8 @@ The Pareto distribution is the name given to these phenomeneas.
 ### Where to from here? 
 Jordan is just starting to lay the foundations of his exploration into why just hierarchies in our modern societies are not only natural, a biproduct of millions of years of evolution, but why they are necessary for societies to function optimally. 
 
+
+
 ## Chapter 2: Treat Yourself Like Someone You Are Responsible For Helping
 Centred around self-loathing; Jordan turns the addage, 'treat others the way you would like to be treated yourself' on its head arguing 'you should treat yourself as the way you would treat somebody you loved'. He initiates this discussions with statistics on rates of prescription medication actually being correctly when we're responsible for ourselves being dramatically low, however, when we are responsible for another being or pet taking prescription medication rates successful administration is almost gauranteed. Discussions are provided to support a notion that children and pets have an auroa of innocence that us as first person controllers of our own lives could not possible expect to deserve. Jordan argues the opposite and suggest that we, ourselves, are exactly the people who deserve to be helped first.
 
@@ -43,3 +45,11 @@ Further, Peterson asks the reader to reflect on their current friendships with o
 
 ### In our every day lives
 Always aim to gainer friendships with people of quality; people who not only have strengths and knowledge in areas you would like to grow but friends who will also celebrate success once you achieve your goal. 
+
+## Chapter 4: Compare Yourself to Who You Were Yesterday, Not Who Someone Else is Today
+For myself, this is one of Peterson's most relatable rules. The chapter starts by asking the reader to identify their strengths and frames they measure their daily success on. Peterson then questions the reader to then ask themselves what standards they are setting for themselves. Jordan implicitly states one is morally obligated no only to judge themselves against the highly exceptional achievers of the peole in our frame of reference but also defines our moral obligation to no UNDERSELL our skills. We must measure our TRUE capabilities and always be in the mindset to beat our previous best self, not the person next to us at the moment. “No matter how good you are at something, or how you rank your accomplishments, there is someone out there who makes you look incompetent.” 
+
+The gist of this states that a person may be perfect in their own eyes, but that is not until another person identifies their flaws. Even when people are satisfied with their accomplishments, they must remain curious and recognize the aspects that need improvement. However, individuals cannot always be expected to be true to themselves all the time, and this very human characteristic usually deceives an individual into believing that they are perfect, especially when they are overpraised. 
+
+### In our every day lives
+Never make yourself feel worse by comparing yourself to others; use these comparisons against others to motivate yourself as necessary however do not hold these comparisons further then the time they can be used for motivation!
