@@ -53,3 +53,10 @@ The gist of this states that a person may be perfect in their own eyes, but that
 
 ### In our every day lives
 Never make yourself feel worse by comparing yourself to others; use these comparisons against others to motivate yourself as necessary however do not hold these comparisons further then the time they can be used for motivation!
+
+
+## Chapter 5: Do Not Let Your Children Do Anything That Makes You Dislike Them
+This chapter was a little less relevant to myself however I tried to extract metaphorical meaning from it some way. Replacing children and with 'people you surround yourself with' and thinking back to chapter 3, I interpretted this chapter as not letting those around you significantly veer from the standards you set for yourself. There are two main reasons for establishing this rule with yourself. Firstly, by setting standards for yourself and watching others deliberating and intentionally not adhere as such you will slowly but surely build resentment towards the individual. It is your moral duty to avoid builindg such resentment and confront such issues as they arise. Else, as Peterson explores, you decent into aggression towards the individual will continuosly build. Second, as just as important, withou confronting indviduals around you when they have acted largely against your compass you are setting new standards for what you will tolerate initially for what behaviours you will tolerate for those around you and if this is unchecked then for behaviours of yourself. Remember the saying; today's exceptions become tomorrow's standards. 
+
+### In our every day lives
+Always challenge others to reach their potential not only for their sake but for yours as well.
